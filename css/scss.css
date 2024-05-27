@@ -782,7 +782,7 @@ body * {
   --fadeLight: 0%;
 }
 .ribbon i::after {
-  content: "Алла ты солнышко я тебя обожаю!";
+  content: "Алла ты солнышко я тебя обожаю и люблю!";
   position: absolute;
   display: grid;
   place-items: center;
